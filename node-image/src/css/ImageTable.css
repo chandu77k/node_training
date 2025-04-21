@@ -1,0 +1,29 @@
+.heading-addNew{
+    display: flex;
+    flex-direction: row;
+}
+.heading{
+    margin-bottom: 20px;
+    color: #ddd;
+    margin-left: 70px;
+}
+.addNew{
+    position: relative;
+    left: 860px;
+    height: 45px;
+}
+.table-scroll-container {
+    max-height: 600px; 
+    overflow-y: auto;
+    overflow-x: auto;
+    border: 1px solid #ddd;
+    margin-top: 20px;
+}
+.table-class {
+    min-width: 1000px;
+}
+.table-head{
+    position: sticky;
+    top: 0;
+}
+  
