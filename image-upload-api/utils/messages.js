@@ -1,3 +1,4 @@
+// Export a set of predefined response messages used throughout the application
 module.exports = {
     MISSING_FIELDS: 'Missing required fields',
     NOT_FOUND: 'Image not found',
